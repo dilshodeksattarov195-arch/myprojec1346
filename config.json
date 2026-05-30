@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasespdate",
+        "uuid": 7712580,
+        "checksum": "a5icd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
